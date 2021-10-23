@@ -1,3 +1,3 @@
 # leon
 Frontend landing page
-#### Demo: https://abdelrazekali.github.io/leon/
+#### Demo: https://abdelrazekali.github.io/leon
