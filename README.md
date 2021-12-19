@@ -1,3 +1,7 @@
 # leon
-Frontend landing page
-#### Demo: https://abdelrazekali.github.io/leon
+
+> Landing page
+
+### Demo
+
+https://abdelrazekali.github.io/leon
